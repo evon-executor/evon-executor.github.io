@@ -11,7 +11,7 @@ Evon is a powerful and reliable Roblox script executor that allows you to inject
 
 ### Lightning-Fast Script Injection
 
-One of the most notable features of Evon is its speed. Unlike many other Roblox script executors, Evon is lightning-fast, allowing you to inject scripts in a matter of seconds. This means you can get back to playing your favorite games without any interruptions.
+One of the most notable features of Evon is its speed. Unlike many other Roblox script executors, Evon is lightning-fast, allowing you to inject scripts in a matter of seconds. This means you can get back to playing your favorite Roblox games without any interruptions.
 
 ### Reliability and Security
 
